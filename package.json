@@ -1,6 +1,6 @@
 {
-    "name": "app-service-hello-world",
-    "description": "Simple Hello World Node.js sample for Azure App Service",
+    "name": "assignement-portfolio-node",
+    "description": "assignement portfolio using node",
     "version": "0.0.1",
     "private": true,
     "license": "MIT",
