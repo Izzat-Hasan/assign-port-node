@@ -1,9 +1,9 @@
 var http = require('http');
 var url = require('url');
 router.get('/',function(req,res){
-  res.sendFile(path.join(__dirname+'/index.html'));
-  //__dirname : It will resolve to your project folder.
-});
+    res.sendFile(path.join(__dirname+'./index.html'));
+    //__dirname : It will resolve to your project folder.
+  });
 
 
 const server = http.createServer((request, response) => {
